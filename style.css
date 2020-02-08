@@ -1,0 +1,21 @@
+/* CSS DOC */
+@import url(
+  https://fonts.googleapis.com/css?family=Source+Code+Pro:200,
+  300,
+  400,
+  500,
+  600,
+  700,
+  900
+);
+
+/* selecting */
+h1 {
+    /* how to style */
+    color: purple;
+}
+
+body {
+    background-color: #f69680;
+    color: #2e1263;
+}
