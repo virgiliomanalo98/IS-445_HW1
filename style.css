@@ -12,10 +12,25 @@
 /* selecting */
 h1 {
     /* how to style */
-    color: purple;
+    font-weight: 200;
+    text-transform: uppercase;
+    border-top: 5px solid;
 }
 
 body {
     background-color: #f69680;
     color: #2e1263;
+    font-weight: 200;
 }
+
+img {
+    height: 500px;
+    border-radius: 50%;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
